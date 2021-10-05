@@ -1,0 +1,32 @@
+a {
+    text-decoration: none;
+}
+
+.bg{
+    width: 444px;
+    height: 992px;
+}
+
+.bg img {
+    width: 444px;
+    height: 992px;
+}
+
+.top span {
+    float: right;
+}
+
+.top img {
+    width: 40px;
+    height: 40px;
+}
+
+.main {
+    padding: 225px;
+}
+
+.main>div {
+    background-color: black;
+    width: 480px;
+    height: 498px;
+}
